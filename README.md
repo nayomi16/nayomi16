@@ -1,22 +1,17 @@
 # Hi there, I'm Nayomi Rashmika 👋
 
 
-### I'm a IT undergeaduate at University of Moratuwa, Former trainee software engineer an Virtusa (.pvt)Ltd. Sri Lanka!!
+###IT undergeaduate at University of Moratuwa, Former trainee software engineer at Virtusa (.pvt)Ltd. Sri Lanka!!
 
 - 🌱 I’m currently learning everything 😀
 - 👯 I’m looking to collaborate with IT experts
 - 🥅 2021 Goals: Contribute to achallanging work environment to deliver the high quality software solutions
 - ⚡ Fun fact: I love to dancing and listen music
 
-
-
 ### Connect with me:
 
 * linkedin - https://www.linkedin.com/in/nayomi-rashmika/
 * Instagram - https://www.instagram.com/nayomirashmika/
-
-<br />
-
 
 ### Languages and Technologies:
 
