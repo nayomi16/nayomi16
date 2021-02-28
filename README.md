@@ -12,12 +12,11 @@
 
 ### Connect with me:
 
+* linkedin - https://www.linkedin.com/in/nayomi-rashmika/
+* Instagram - https://www.instagram.com/nayomirashmika/
 
-[<img  LinkedIn" width="22px" src="https://www.linkedin.com/in/nayomi-rashmika/"/>][linkedin]
-[<img  Instagram" width="22px" src="https://www.instagram.com/nayomirashmika/" />][instagram]
-
-<br /><br />
 <br />
+
 
 ### Languages and Technologies:
 
