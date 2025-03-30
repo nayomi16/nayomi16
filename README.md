@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning everything 😀
 - 👯 I’m looking to collaborate with IT experts
-- 🥅 2021 Goals: Contribute to a challanging work environment to deliver the high quality software solutions
 - ⚡ Fun fact: I love to dancing and listen music
 
 ### Connect with me:
